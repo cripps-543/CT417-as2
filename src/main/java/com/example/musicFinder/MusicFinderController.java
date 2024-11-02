@@ -57,6 +57,18 @@ public class MusicFinderController {
     // Fetch song details, YouTube search link, and formatted lyrics
     @GetMapping("/song/{artist}/{name}")
     public ObjectNode getSongDetails(@PathVariable String artist, @PathVariable String name) {
+        ObjectNode response = objectMapper.createObjectNode();
+
+        // Validate artist and song inputs
+        if (artist == null || artist.trim().isEmpty()) {
+            response.put("error", "Artist name cannot be null or empty");
+            return response;
+        }
+        if (name == null || name.trim().isEmpty()) {
+            response.put("error", "Song name cannot be null or empty");
+            return response;
+        }
+
         // Get the YouTube search link
         String youtubeSearchUrl = getYouTubeSearchUrl(artist, name);
 
@@ -64,7 +76,6 @@ public class MusicFinderController {
         String lyrics = getFormattedLyrics(artist, name);
 
         // Build a JSON response with the song and artist details
-        ObjectNode response = objectMapper.createObjectNode();
         response.put("song", name);
         response.put("artist", artist);
         response.put("youtubeSearch", youtubeSearchUrl);
