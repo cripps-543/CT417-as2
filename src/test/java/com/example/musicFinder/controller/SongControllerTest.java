@@ -1,6 +1,5 @@
 package com.example.musicFinder.controller;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ObjectNode;
 import com.example.musicFinder.MusicFinderController;
 import org.junit.jupiter.api.BeforeEach;
@@ -22,12 +21,9 @@ public class SongControllerTest {
     @Mock
     private RestTemplate restTemplate;
 
-    private ObjectMapper objectMapper;
-
     @BeforeEach
     public void setUp() {
         MockitoAnnotations.openMocks(this);
-        objectMapper = new ObjectMapper();
     }
 
     @Test
