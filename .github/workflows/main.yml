@@ -32,5 +32,5 @@ jobs:
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         run: mvn sonar:sonar \
-          -Dsonar.projectKey=your_project_key \
-          -Dsonar.organization=your_organization
+          -Dsonar.projectKey=cripps-543_CT417-as2 \
+          -Dsonar.organization=cripps-543
