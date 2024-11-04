@@ -1,0 +1,884 @@
+{
+    "total": 14,
+    "p": 1,
+    "ps": 100,
+    "paging": {
+        "pageIndex": 1,
+        "pageSize": 100,
+        "total": 14
+    },
+    "effortTotal": 86,
+    "debtTotal": 86,
+    "issues": [
+        {
+            "key": "AZLyXccAEzoo1AxrBd5r",
+            "rule": "java:S5786",
+            "severity": "INFO",
+            "component": "cripps-543_CT417-as2:src/test/java/com/example/musicFinder/controller/SongControllerTest.java",
+            "project": "cripps-543_CT417-as2",
+            "line": 16,
+            "hash": "1e7bfbe11fcc9dbca254a9b790531abe",
+            "textRange": {
+                "startLine": 16,
+                "endLine": 16,
+                "startOffset": 0,
+                "endOffset": 6
+            },
+            "flows": [],
+            "status": "OPEN",
+            "message": "Remove this 'public' modifier.",
+            "effort": "2min",
+            "debt": "2min",
+            "assignee": "cripps-543-VwFph@github",
+            "author": "crippshayden@gmail.com",
+            "tags": [
+                "junit",
+                "tests"
+            ],
+            "creationDate": "2024-11-02T20:18:49+0100",
+            "updateDate": "2024-11-03T15:11:06+0100",
+            "type": "CODE_SMELL",
+            "organization": "cripps-543",
+            "cleanCodeAttribute": "CLEAR",
+            "cleanCodeAttributeCategory": "INTENTIONAL",
+            "impacts": [
+                {
+                    "softwareQuality": "MAINTAINABILITY",
+                    "severity": "LOW"
+                }
+            ],
+            "issueStatus": "OPEN"
+        },
+        {
+            "key": "AZLyXccAEzoo1AxrBd5l",
+            "rule": "java:S5786",
+            "severity": "INFO",
+            "component": "cripps-543_CT417-as2:src/test/java/com/example/musicFinder/controller/SongControllerTest.java",
+            "project": "cripps-543_CT417-as2",
+            "line": 30,
+            "hash": "bfbd38845909f748a190e7b73552b030",
+            "textRange": {
+                "startLine": 30,
+                "endLine": 30,
+                "startOffset": 4,
+                "endOffset": 10
+            },
+            "flows": [],
+            "status": "OPEN",
+            "message": "Remove this 'public' modifier.",
+            "effort": "2min",
+            "debt": "2min",
+            "assignee": "cripps-543-VwFph@github",
+            "author": "crippshayden@gmail.com",
+            "tags": [
+                "junit",
+                "tests"
+            ],
+            "creationDate": "2024-11-02T20:18:49+0100",
+            "updateDate": "2024-11-03T15:11:06+0100",
+            "type": "CODE_SMELL",
+            "organization": "cripps-543",
+            "cleanCodeAttribute": "CLEAR",
+            "cleanCodeAttributeCategory": "INTENTIONAL",
+            "impacts": [
+                {
+                    "softwareQuality": "MAINTAINABILITY",
+                    "severity": "LOW"
+                }
+            ],
+            "issueStatus": "OPEN"
+        },
+        {
+            "key": "AZLyXccAEzoo1AxrBd5m",
+            "rule": "java:S5786",
+            "severity": "INFO",
+            "component": "cripps-543_CT417-as2:src/test/java/com/example/musicFinder/controller/SongControllerTest.java",
+            "project": "cripps-543_CT417-as2",
+            "line": 50,
+            "hash": "cd9e2c84f89dd09e692505da15e5b357",
+            "textRange": {
+                "startLine": 50,
+                "endLine": 50,
+                "startOffset": 4,
+                "endOffset": 10
+            },
+            "flows": [],
+            "status": "OPEN",
+            "message": "Remove this 'public' modifier.",
+            "effort": "2min",
+            "debt": "2min",
+            "assignee": "cripps-543-VwFph@github",
+            "author": "crippshayden@gmail.com",
+            "tags": [
+                "junit",
+                "tests"
+            ],
+            "creationDate": "2024-11-02T20:18:49+0100",
+            "updateDate": "2024-11-03T15:11:06+0100",
+            "type": "CODE_SMELL",
+            "organization": "cripps-543",
+            "cleanCodeAttribute": "CLEAR",
+            "cleanCodeAttributeCategory": "INTENTIONAL",
+            "impacts": [
+                {
+                    "softwareQuality": "MAINTAINABILITY",
+                    "severity": "LOW"
+                }
+            ],
+            "issueStatus": "OPEN"
+        },
+        {
+            "key": "AZLyXccAEzoo1AxrBd5n",
+            "rule": "java:S5786",
+            "severity": "INFO",
+            "component": "cripps-543_CT417-as2:src/test/java/com/example/musicFinder/controller/SongControllerTest.java",
+            "project": "cripps-543_CT417-as2",
+            "line": 67,
+            "hash": "f402e644a32eac0111a6c5e81e363dd9",
+            "textRange": {
+                "startLine": 67,
+                "endLine": 67,
+                "startOffset": 4,
+                "endOffset": 10
+            },
+            "flows": [],
+            "status": "OPEN",
+            "message": "Remove this 'public' modifier.",
+            "effort": "2min",
+            "debt": "2min",
+            "assignee": "cripps-543-VwFph@github",
+            "author": "crippshayden@gmail.com",
+            "tags": [
+                "junit",
+                "tests"
+            ],
+            "creationDate": "2024-11-02T20:18:49+0100",
+            "updateDate": "2024-11-03T15:11:06+0100",
+            "type": "CODE_SMELL",
+            "organization": "cripps-543",
+            "cleanCodeAttribute": "CLEAR",
+            "cleanCodeAttributeCategory": "INTENTIONAL",
+            "impacts": [
+                {
+                    "softwareQuality": "MAINTAINABILITY",
+                    "severity": "LOW"
+                }
+            ],
+            "issueStatus": "OPEN"
+        },
+        {
+            "key": "AZLyXccAEzoo1AxrBd5s",
+            "rule": "java:S5976",
+            "severity": "MAJOR",
+            "component": "cripps-543_CT417-as2:src/test/java/com/example/musicFinder/controller/SongControllerTest.java",
+            "project": "cripps-543_CT417-as2",
+            "line": 67,
+            "hash": "f402e644a32eac0111a6c5e81e363dd9",
+            "textRange": {
+                "startLine": 67,
+                "endLine": 67,
+                "startOffset": 16,
+                "endOffset": 42
+            },
+            "flows": [
+                {
+                    "locations": [
+                        {
+                            "component": "cripps-543_CT417-as2:src/test/java/com/example/musicFinder/controller/SongControllerTest.java",
+                            "textRange": {
+                                "startLine": 76,
+                                "endLine": 76,
+                                "startOffset": 21,
+                                "endOffset": 58
+                            },
+                            "msg": "Value to parameterize"
+                        }
+                    ]
+                },
+                {
+                    "locations": [
+                        {
+                            "component": "cripps-543_CT417-as2:src/test/java/com/example/musicFinder/controller/SongControllerTest.java",
+                            "textRange": {
+                                "startLine": 69,
+                                "endLine": 69,
+                                "startOffset": 24,
+                                "endOffset": 28
+                            },
+                            "msg": "Value to parameterize"
+                        }
+                    ]
+                },
+                {
+                    "locations": [
+                        {
+                            "component": "cripps-543_CT417-as2:src/test/java/com/example/musicFinder/controller/SongControllerTest.java",
+                            "textRange": {
+                                "startLine": 70,
+                                "endLine": 70,
+                                "startOffset": 22,
+                                "endOffset": 29
+                            },
+                            "msg": "Value to parameterize"
+                        }
+                    ]
+                },
+                {
+                    "locations": [
+                        {
+                            "component": "cripps-543_CT417-as2:src/test/java/com/example/musicFinder/controller/SongControllerTest.java",
+                            "textRange": {
+                                "startLine": 80,
+                                "endLine": 80,
+                                "startOffset": 16,
+                                "endOffset": 40
+                            },
+                            "msg": "Related test"
+                        }
+                    ]
+                },
+                {
+                    "locations": [
+                        {
+                            "component": "cripps-543_CT417-as2:src/test/java/com/example/musicFinder/controller/SongControllerTest.java",
+                            "textRange": {
+                                "startLine": 93,
+                                "endLine": 93,
+                                "startOffset": 16,
+                                "endOffset": 43
+                            },
+                            "msg": "Related test"
+                        }
+                    ]
+                },
+                {
+                    "locations": [
+                        {
+                            "component": "cripps-543_CT417-as2:src/test/java/com/example/musicFinder/controller/SongControllerTest.java",
+                            "textRange": {
+                                "startLine": 106,
+                                "endLine": 106,
+                                "startOffset": 16,
+                                "endOffset": 41
+                            },
+                            "msg": "Related test"
+                        }
+                    ]
+                }
+            ],
+            "status": "OPEN",
+            "message": "Replace these 4 tests with a single Parameterized one.",
+            "effort": "10min",
+            "debt": "10min",
+            "assignee": "cripps-543-VwFph@github",
+            "author": "crippshayden@gmail.com",
+            "tags": [
+                "bad-practice",
+                "clumsy",
+                "tests"
+            ],
+            "creationDate": "2024-11-02T20:18:49+0100",
+            "updateDate": "2024-11-03T15:11:06+0100",
+            "type": "CODE_SMELL",
+            "organization": "cripps-543",
+            "cleanCodeAttribute": "CONVENTIONAL",
+            "cleanCodeAttributeCategory": "CONSISTENT",
+            "impacts": [
+                {
+                    "softwareQuality": "MAINTAINABILITY",
+                    "severity": "MEDIUM"
+                }
+            ],
+            "issueStatus": "OPEN"
+        },
+        {
+            "key": "AZLyXccAEzoo1AxrBd5o",
+            "rule": "java:S5786",
+            "severity": "INFO",
+            "component": "cripps-543_CT417-as2:src/test/java/com/example/musicFinder/controller/SongControllerTest.java",
+            "project": "cripps-543_CT417-as2",
+            "line": 80,
+            "hash": "685f4cb00a86c1471c8694c4f87d8039",
+            "textRange": {
+                "startLine": 80,
+                "endLine": 80,
+                "startOffset": 4,
+                "endOffset": 10
+            },
+            "flows": [],
+            "status": "OPEN",
+            "message": "Remove this 'public' modifier.",
+            "effort": "2min",
+            "debt": "2min",
+            "assignee": "cripps-543-VwFph@github",
+            "author": "crippshayden@gmail.com",
+            "tags": [
+                "junit",
+                "tests"
+            ],
+            "creationDate": "2024-11-02T20:18:49+0100",
+            "updateDate": "2024-11-03T15:11:06+0100",
+            "type": "CODE_SMELL",
+            "organization": "cripps-543",
+            "cleanCodeAttribute": "CLEAR",
+            "cleanCodeAttributeCategory": "INTENTIONAL",
+            "impacts": [
+                {
+                    "softwareQuality": "MAINTAINABILITY",
+                    "severity": "LOW"
+                }
+            ],
+            "issueStatus": "OPEN"
+        },
+        {
+            "key": "AZLyXccAEzoo1AxrBd5p",
+            "rule": "java:S5786",
+            "severity": "INFO",
+            "component": "cripps-543_CT417-as2:src/test/java/com/example/musicFinder/controller/SongControllerTest.java",
+            "project": "cripps-543_CT417-as2",
+            "line": 93,
+            "hash": "ba46d70c48523fc8225242bfa82d635b",
+            "textRange": {
+                "startLine": 93,
+                "endLine": 93,
+                "startOffset": 4,
+                "endOffset": 10
+            },
+            "flows": [],
+            "status": "OPEN",
+            "message": "Remove this 'public' modifier.",
+            "effort": "2min",
+            "debt": "2min",
+            "assignee": "cripps-543-VwFph@github",
+            "author": "crippshayden@gmail.com",
+            "tags": [
+                "junit",
+                "tests"
+            ],
+            "creationDate": "2024-11-02T20:18:49+0100",
+            "updateDate": "2024-11-03T15:11:06+0100",
+            "type": "CODE_SMELL",
+            "organization": "cripps-543",
+            "cleanCodeAttribute": "CLEAR",
+            "cleanCodeAttributeCategory": "INTENTIONAL",
+            "impacts": [
+                {
+                    "softwareQuality": "MAINTAINABILITY",
+                    "severity": "LOW"
+                }
+            ],
+            "issueStatus": "OPEN"
+        },
+        {
+            "key": "AZLyXccAEzoo1AxrBd5q",
+            "rule": "java:S5786",
+            "severity": "INFO",
+            "component": "cripps-543_CT417-as2:src/test/java/com/example/musicFinder/controller/SongControllerTest.java",
+            "project": "cripps-543_CT417-as2",
+            "line": 106,
+            "hash": "443039599d29a64e3df47c22e38d54d6",
+            "textRange": {
+                "startLine": 106,
+                "endLine": 106,
+                "startOffset": 4,
+                "endOffset": 10
+            },
+            "flows": [],
+            "status": "OPEN",
+            "message": "Remove this 'public' modifier.",
+            "effort": "2min",
+            "debt": "2min",
+            "assignee": "cripps-543-VwFph@github",
+            "author": "crippshayden@gmail.com",
+            "tags": [
+                "junit",
+                "tests"
+            ],
+            "creationDate": "2024-11-02T20:18:49+0100",
+            "updateDate": "2024-11-03T15:11:06+0100",
+            "type": "CODE_SMELL",
+            "organization": "cripps-543",
+            "cleanCodeAttribute": "CLEAR",
+            "cleanCodeAttributeCategory": "INTENTIONAL",
+            "impacts": [
+                {
+                    "softwareQuality": "MAINTAINABILITY",
+                    "severity": "LOW"
+                }
+            ],
+            "issueStatus": "OPEN"
+        },
+        {
+            "key": "AZLyXcb5Ezoo1AxrBd5k",
+            "rule": "java:S120",
+            "severity": "MINOR",
+            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderApplication.java",
+            "project": "cripps-543_CT417-as2",
+            "line": 1,
+            "hash": "3c9f4fb7a68198355d4f8088cd66fa3c",
+            "textRange": {
+                "startLine": 1,
+                "endLine": 1,
+                "startOffset": 8,
+                "endOffset": 31
+            },
+            "flows": [],
+            "status": "OPEN",
+            "message": "Rename this package name to match the regular expression '^[a-z_]+(\\.[a-z_][a-z0-9_]*)*$'.",
+            "effort": "10min",
+            "debt": "10min",
+            "author": "66690702+github-classroom[bot]@users.noreply.github.com",
+            "tags": [
+                "convention"
+            ],
+            "creationDate": "2024-10-25T01:47:15+0200",
+            "updateDate": "2024-11-03T15:11:06+0100",
+            "type": "CODE_SMELL",
+            "organization": "cripps-543",
+            "cleanCodeAttribute": "IDENTIFIABLE",
+            "cleanCodeAttributeCategory": "CONSISTENT",
+            "impacts": [
+                {
+                    "softwareQuality": "MAINTAINABILITY",
+                    "severity": "LOW"
+                }
+            ],
+            "issueStatus": "OPEN"
+        },
+        {
+            "key": "AZLyXcbbEzoo1AxrBd5g",
+            "rule": "java:S120",
+            "severity": "MINOR",
+            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+            "project": "cripps-543_CT417-as2",
+            "line": 1,
+            "hash": "3c9f4fb7a68198355d4f8088cd66fa3c",
+            "textRange": {
+                "startLine": 1,
+                "endLine": 1,
+                "startOffset": 8,
+                "endOffset": 31
+            },
+            "flows": [],
+            "status": "OPEN",
+            "message": "Rename this package name to match the regular expression '^[a-z_]+(\\.[a-z_][a-z0-9_]*)*$'.",
+            "effort": "10min",
+            "debt": "10min",
+            "author": "66690702+github-classroom[bot]@users.noreply.github.com",
+            "tags": [
+                "convention"
+            ],
+            "creationDate": "2024-10-25T01:47:15+0200",
+            "updateDate": "2024-11-03T15:11:06+0100",
+            "type": "CODE_SMELL",
+            "organization": "cripps-543",
+            "cleanCodeAttribute": "IDENTIFIABLE",
+            "cleanCodeAttributeCategory": "CONSISTENT",
+            "impacts": [
+                {
+                    "softwareQuality": "MAINTAINABILITY",
+                    "severity": "LOW"
+                }
+            ],
+            "issueStatus": "OPEN"
+        },
+        {
+            "key": "AZLyXcbbEzoo1AxrBd5j",
+            "rule": "javasecurity:S7044",
+            "severity": "MAJOR",
+            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+            "project": "cripps-543_CT417-as2",
+            "line": 29,
+            "hash": "f0dff95b317d92245793254d34aa1f8d",
+            "textRange": {
+                "startLine": 29,
+                "endLine": 29,
+                "startOffset": 29,
+                "endOffset": 76
+            },
+            "flows": [
+                {
+                    "locations": [
+                        {
+                            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+                            "textRange": {
+                                "startLine": 29,
+                                "endLine": 29,
+                                "startOffset": 29,
+                                "endOffset": 76
+                            },
+                            "msg": "Sink: this invocation is not safe; a malicious value can be used as argument"
+                        },
+                        {
+                            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+                            "textRange": {
+                                "startLine": 25,
+                                "endLine": 25,
+                                "startOffset": 8,
+                                "endOffset": 75
+                            },
+                            "msg": "A malicious value can be assigned to variable \u00e2\u20ac\u02dcapiUrl\u00e2\u20ac\u2122"
+                        },
+                        {
+                            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+                            "textRange": {
+                                "startLine": 25,
+                                "endLine": 25,
+                                "startOffset": 24,
+                                "endOffset": 74
+                            },
+                            "msg": "This concatenation can propagate malicious content to the newly created string"
+                        },
+                        {
+                            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+                            "textRange": {
+                                "startLine": 25,
+                                "endLine": 25,
+                                "startOffset": 55,
+                                "endOffset": 61
+                            },
+                            "msg": "The malicious content is concatenated into the string"
+                        },
+                        {
+                            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+                            "textRange": {
+                                "startLine": 24,
+                                "endLine": 24,
+                                "startOffset": 38,
+                                "endOffset": 52
+                            },
+                            "msg": "This instruction can propagate malicious content"
+                        },
+                        {
+                            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+                            "textRange": {
+                                "startLine": 24,
+                                "endLine": 24,
+                                "startOffset": 19,
+                                "endOffset": 37
+                            },
+                            "msg": "This instruction can propagate malicious content"
+                        },
+                        {
+                            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+                            "textRange": {
+                                "startLine": 76,
+                                "endLine": 76,
+                                "startOffset": 24,
+                                "endOffset": 56
+                            },
+                            "msg": "This instruction can propagate malicious content"
+                        },
+                        {
+                            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+                            "textRange": {
+                                "startLine": 59,
+                                "endLine": 59,
+                                "startOffset": 58,
+                                "endOffset": 64
+                            },
+                            "msg": "This instruction can propagate malicious content"
+                        },
+                        {
+                            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+                            "textRange": {
+                                "startLine": 59,
+                                "endLine": 59,
+                                "startOffset": 37,
+                                "endOffset": 50
+                            },
+                            "msg": "Source: a user can craft an HTTP request with malicious content"
+                        }
+                    ]
+                },
+                {
+                    "locations": [
+                        {
+                            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+                            "textRange": {
+                                "startLine": 29,
+                                "endLine": 29,
+                                "startOffset": 29,
+                                "endOffset": 76
+                            },
+                            "msg": "Sink: this invocation is not safe; a malicious value can be used as argument"
+                        },
+                        {
+                            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+                            "textRange": {
+                                "startLine": 25,
+                                "endLine": 25,
+                                "startOffset": 8,
+                                "endOffset": 75
+                            },
+                            "msg": "A malicious value can be assigned to variable \u00e2\u20ac\u02dcapiUrl\u00e2\u20ac\u2122"
+                        },
+                        {
+                            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+                            "textRange": {
+                                "startLine": 25,
+                                "endLine": 25,
+                                "startOffset": 24,
+                                "endOffset": 74
+                            },
+                            "msg": "This concatenation can propagate malicious content to the newly created string"
+                        },
+                        {
+                            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+                            "textRange": {
+                                "startLine": 25,
+                                "endLine": 25,
+                                "startOffset": 70,
+                                "endOffset": 74
+                            },
+                            "msg": "The malicious content is concatenated into the string"
+                        },
+                        {
+                            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+                            "textRange": {
+                                "startLine": 24,
+                                "endLine": 24,
+                                "startOffset": 53,
+                                "endOffset": 64
+                            },
+                            "msg": "This instruction can propagate malicious content"
+                        },
+                        {
+                            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+                            "textRange": {
+                                "startLine": 24,
+                                "endLine": 24,
+                                "startOffset": 19,
+                                "endOffset": 37
+                            },
+                            "msg": "This instruction can propagate malicious content"
+                        },
+                        {
+                            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+                            "textRange": {
+                                "startLine": 76,
+                                "endLine": 76,
+                                "startOffset": 24,
+                                "endOffset": 56
+                            },
+                            "msg": "This instruction can propagate malicious content"
+                        },
+                        {
+                            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+                            "textRange": {
+                                "startLine": 59,
+                                "endLine": 59,
+                                "startOffset": 87,
+                                "endOffset": 91
+                            },
+                            "msg": "This instruction can propagate malicious content"
+                        },
+                        {
+                            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+                            "textRange": {
+                                "startLine": 59,
+                                "endLine": 59,
+                                "startOffset": 66,
+                                "endOffset": 79
+                            },
+                            "msg": "Source: a user can craft an HTTP request with malicious content"
+                        }
+                    ]
+                }
+            ],
+            "status": "OPEN",
+            "message": "Change this code to not construct the URL's path from user-controlled data.",
+            "effort": "30min",
+            "debt": "30min",
+            "author": "66690702+github-classroom[bot]@users.noreply.github.com",
+            "tags": [
+                "cwe"
+            ],
+            "creationDate": "2024-10-25T01:47:15+0200",
+            "updateDate": "2024-11-03T15:11:06+0100",
+            "type": "VULNERABILITY",
+            "organization": "cripps-543",
+            "cleanCodeAttribute": "COMPLETE",
+            "cleanCodeAttributeCategory": "INTENTIONAL",
+            "impacts": [
+                {
+                    "softwareQuality": "SECURITY",
+                    "severity": "LOW"
+                }
+            ],
+            "issueStatus": "OPEN"
+        },
+        {
+            "key": "AZLyXcbbEzoo1AxrBd5h",
+            "rule": "java:S1117",
+            "severity": "MAJOR",
+            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+            "project": "cripps-543_CT417-as2",
+            "line": 32,
+            "hash": "9d539fd9ae7b1cd3f34b4f37a978b828",
+            "textRange": {
+                "startLine": 32,
+                "endLine": 32,
+                "startOffset": 25,
+                "endOffset": 37
+            },
+            "flows": [],
+            "status": "OPEN",
+            "message": "Rename \"objectMapper\" which hides the field declared at line 15.",
+            "effort": "5min",
+            "debt": "5min",
+            "author": "66690702+github-classroom[bot]@users.noreply.github.com",
+            "tags": [
+                "cert",
+                "pitfall",
+                "suspicious"
+            ],
+            "creationDate": "2024-10-25T01:47:15+0200",
+            "updateDate": "2024-11-03T15:11:06+0100",
+            "type": "CODE_SMELL",
+            "organization": "cripps-543",
+            "cleanCodeAttribute": "CLEAR",
+            "cleanCodeAttributeCategory": "INTENTIONAL",
+            "impacts": [
+                {
+                    "softwareQuality": "MAINTAINABILITY",
+                    "severity": "MEDIUM"
+                }
+            ],
+            "issueStatus": "OPEN"
+        },
+        {
+            "key": "AZLyXcbbEzoo1AxrBd5i",
+            "rule": "java:S5361",
+            "severity": "CRITICAL",
+            "component": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+            "project": "cripps-543_CT417-as2",
+            "line": 37,
+            "hash": "b84d7693b247a669ddbba16f69b4cc2d",
+            "textRange": {
+                "startLine": 37,
+                "endLine": 37,
+                "startOffset": 47,
+                "endOffset": 57
+            },
+            "flows": [],
+            "status": "OPEN",
+            "message": "Replace this call to \"replaceAll()\" by a call to the \"replace()\" method.",
+            "effort": "2min",
+            "debt": "2min",
+            "author": "66690702+github-classroom[bot]@users.noreply.github.com",
+            "tags": [
+                "performance",
+                "regex"
+            ],
+            "creationDate": "2024-10-25T01:47:15+0200",
+            "updateDate": "2024-11-03T15:11:06+0100",
+            "type": "CODE_SMELL",
+            "organization": "cripps-543",
+            "cleanCodeAttribute": "EFFICIENT",
+            "cleanCodeAttributeCategory": "INTENTIONAL",
+            "impacts": [
+                {
+                    "softwareQuality": "MAINTAINABILITY",
+                    "severity": "HIGH"
+                }
+            ],
+            "issueStatus": "OPEN"
+        },
+        {
+            "key": "AZLyXccREzoo1AxrBd5t",
+            "rule": "java:S1186",
+            "severity": "CRITICAL",
+            "component": "cripps-543_CT417-as2:src/test/java/com/example/musicFinder/MusicFinderApplicationTests.java",
+            "project": "cripps-543_CT417-as2",
+            "line": 10,
+            "hash": "9da319abd9f20a8cf2db6edcaf58d7f1",
+            "textRange": {
+                "startLine": 10,
+                "endLine": 10,
+                "startOffset": 6,
+                "endOffset": 18
+            },
+            "flows": [],
+            "status": "OPEN",
+            "message": "Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.",
+            "effort": "5min",
+            "debt": "5min",
+            "author": "66690702+github-classroom[bot]@users.noreply.github.com",
+            "tags": [
+                "suspicious"
+            ],
+            "creationDate": "2024-10-25T01:47:15+0200",
+            "updateDate": "2024-11-03T15:11:06+0100",
+            "type": "CODE_SMELL",
+            "organization": "cripps-543",
+            "cleanCodeAttribute": "COMPLETE",
+            "cleanCodeAttributeCategory": "INTENTIONAL",
+            "impacts": [
+                {
+                    "softwareQuality": "MAINTAINABILITY",
+                    "severity": "HIGH"
+                }
+            ],
+            "issueStatus": "OPEN"
+        }
+    ],
+    "components": [
+        {
+            "organization": "cripps-543",
+            "key": "cripps-543_CT417-as2",
+            "uuid": "AZLyXVdVr0dsW3yuxdWk",
+            "enabled": true,
+            "qualifier": "TRK",
+            "name": "musicFinder",
+            "longName": "musicFinder"
+        },
+        {
+            "organization": "cripps-543",
+            "key": "cripps-543_CT417-as2:src/test/java/com/example/musicFinder/controller/SongControllerTest.java",
+            "uuid": "AZLyXcQCEzoo1AxrBd5a",
+            "enabled": true,
+            "qualifier": "UTS",
+            "name": "SongControllerTest.java",
+            "longName": "src/test/java/com/example/musicFinder/controller/SongControllerTest.java",
+            "path": "src/test/java/com/example/musicFinder/controller/SongControllerTest.java"
+        },
+        {
+            "organization": "cripps-543",
+            "key": "cripps-543_CT417-as2:src/test/java/com/example/musicFinder/MusicFinderApplicationTests.java",
+            "uuid": "AZLyXcQCEzoo1AxrBd5c",
+            "enabled": true,
+            "qualifier": "UTS",
+            "name": "MusicFinderApplicationTests.java",
+            "longName": "src/test/java/com/example/musicFinder/MusicFinderApplicationTests.java",
+            "path": "src/test/java/com/example/musicFinder/MusicFinderApplicationTests.java"
+        },
+        {
+            "organization": "cripps-543",
+            "key": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderApplication.java",
+            "uuid": "AZLyXcQCEzoo1AxrBd5X",
+            "enabled": true,
+            "qualifier": "FIL",
+            "name": "MusicFinderApplication.java",
+            "longName": "src/main/java/com/example/musicFinder/MusicFinderApplication.java",
+            "path": "src/main/java/com/example/musicFinder/MusicFinderApplication.java"
+        },
+        {
+            "organization": "cripps-543",
+            "key": "cripps-543_CT417-as2:src/main/java/com/example/musicFinder/MusicFinderController.java",
+            "uuid": "AZLyXcQCEzoo1AxrBd5W",
+            "enabled": true,
+            "qualifier": "FIL",
+            "name": "MusicFinderController.java",
+            "longName": "src/main/java/com/example/musicFinder/MusicFinderController.java",
+            "path": "src/main/java/com/example/musicFinder/MusicFinderController.java"
+        }
+    ],
+    "organizations": [
+        {
+            "key": "cripps-543",
+            "name": "cripps-543"
+        }
+    ],
+    "facets": []
+}

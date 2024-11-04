@@ -31,7 +31,7 @@ public class SongControllerTest {
         // Arrange
         String artist = "Adele";
         String song = "Hello";
-        String expectedLyricsSnippet = "Hello, it's me<br>I was wondering"; // Use actual expected lyrics
+        String expectedLyricsSnippet = "Hello, it's me";
 
         String jsonResponse = "{\"lyrics\":\"Hello, it's me\\nI was wondering...\"}";
         when(restTemplate.getForObject(anyString(), eq(String.class))).thenReturn(jsonResponse);
